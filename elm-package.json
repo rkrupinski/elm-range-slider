@@ -1,0 +1,23 @@
+{
+    "version": "1.0.0",
+    "summary": "Elm range slider",
+    "repository": "https://github.com/rkrupinski/elm-range-slider.git",
+    "license": "BSD3",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [
+        "Slider.Core",
+        "Slider.Helpers",
+        "Slider.Styles",
+        "Slider.ClassNames"
+    ],
+    "dependencies": {
+        "elm-lang/core": "5.1.1 <= v < 6.0.0",
+        "elm-lang/html": "2.0.0 <= v < 3.0.0",
+        "elm-lang/mouse": "1.0.1 <= v < 2.0.0",
+        "rtfeldman/elm-css": "11.0.0 <= v < 12.0.0",
+        "rtfeldman/elm-css-helpers": "2.1.0 <= v < 3.0.0"
+    },
+    "elm-version": "0.18.0 <= v < 0.19.0"
+}
