@@ -115,7 +115,7 @@ renderValues range ( left, right ) =
 The `Slider.Styles` module contains basic default styles to get you up and running. Use the `Slider.ClassNames` module to generate your custom styles with [elm-css](http://package.elm-lang.org/packages/rtfeldman/elm-css/latest).
 
 
-## Example
+## Examples
 
-Check out the [example](example) to see how to make it all work.
+Check out the [example](example) to see how to make it all work. Additionally, the [example-webpack](example-webpack) directory contains a [webpack](https://webpack.js.org/)-based setup.
 
